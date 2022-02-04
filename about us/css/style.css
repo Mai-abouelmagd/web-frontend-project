@@ -1,0 +1,128 @@
+body
+{
+    background-color:#D3E9C0;
+    background-repeat: no-repeat;
+    background-size:cover;	
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+nav .list 
+{  
+    background-color:#BDEB95;
+    width: 100%; 
+    margin: 0;
+    height: 50px;
+}
+nav .list ul li{float:right;}
+nav ul li a
+{   float:right;
+    text-decoration: none;
+    color:#4877CA;
+    font-family: Rockwell;
+    font-size: 20px;
+    padding: 10px;
+    text-transform: none;
+}
+nav ul 
+{
+    list-style:none;  
+    margin: 0;
+    margin-left: 650px;
+    padding-top: 10px;
+    
+}
+nav ul :hover
+{
+    background-color:#2F9404;
+    border-radius: 7px;
+    box-shadow: 0 0 10px white;
+    color: white;
+}
+nav ul li 
+{
+    display: inline-block;
+}
+
+nav .head
+{
+   position:absolute;
+  
+}
+nav .head h1
+{
+    font-family: French Script MT;
+    font-size: 50px;
+    text-transform: capitalize;
+    color: #EC711E;
+    font-weight: bold;
+    margin: 0;
+}
+nav .head h1 span
+{
+    color: dodgerblue;
+    font-family: French Script MT;
+}
+.text
+{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.main-p
+{
+    color:black;
+    font-size:88px;
+    text-align:center;
+}
+p .blue
+{
+    color:blue;
+    font-family:cursive; 
+    position: center;
+    text-align: center;
+}
+p .green
+{
+    color:green;
+    font-family:cursive; 
+    position: center;
+    text-align: center;
+}
+p .yellow
+{
+    color:gold;
+    font-family:cursive; 
+    position: center;
+    text-align: center;
+}
+
+h1
+{
+    color:teal; 
+    font-family:comic sans MS;
+}
+.contact img 
+{
+    width:42px;
+    height:42px;
+    border:0;
+    text-align: center;
+   
+}
+.contact p
+{
+    color:darkred;
+    font-size: 30px;
+    font-weight: bold;
+}
+a
+{
+    color:blue;
+    font-family: arial;
+    text-align: center;
+}
+
+.contact
+{
+    padding-left: 445px;
+}

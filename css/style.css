@@ -1,0 +1,168 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "Roboto", sans-serif;
+}
+body {
+    background-image: url("../images/address.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+    height: 480px;
+} 
+.list
+{
+    float:right;
+    width: 100%; 
+    color: #4877CA;
+    margin: 0;
+    border:none;
+    height: 50px;
+}
+
+nav ul 
+{
+	float:right;
+    list-style:none;  
+    margin: 0;
+    margin-left: 800px;
+    padding-top: 10px;
+    
+}
+nav ul :hover
+{
+    background-color:#2F9404;
+    border-radius: 7px;
+    box-shadow: 0 0 10px white;
+    color: white;
+}
+nav ul li 
+{
+    display: inline-block;
+}
+
+nav ul li a
+{
+    text-decoration: none;
+    color:white;
+    font-family: Rockwell;
+    font-size: 20px;
+    padding: 10px;
+    text-transform: none;
+}
+nav .head
+{
+    position: absolute;
+    
+}
+nav .head h1
+{
+    font-family: French Script MT;
+    font-size: 50px;
+    text-transform: capitalize;
+    padding-left: 50px;
+    color:#EC711E;
+    font-weight: bold;
+}
+nav .head h1 span
+{
+    color: dodgerblue;
+    font-family: French Script MT;
+}
+.component
+{
+    padding-top:250px;
+}
+
+.component h1{
+    margin:0 auto;
+    width: 600px;
+    font-size:80px;
+    border-top: 2px solid #4877CA;
+    border-bottom: 2px solid #4877CA;
+    text-transform: uppercase;
+    text-align: center;
+    color: #4877CA;
+    font-family: algerian;
+}
+.component li{
+		display: inline-block;
+	    list-style: none;
+        padding-top: 30px;
+        
+}
+.component li a{
+    background: none;
+    width: 110px;
+    height: 40px;
+    text-transform: uppercase;
+    border-radius: 7px;
+    box-shadow: 0 0 15px black;
+	text-decoration:none;
+	color:#D0400C;
+	font-size:25px;	
+	font-weight:bold;
+	padding:10px 10px;
+    margin-left: 600px;
+    font-family: algerian;
+
+}
+.component li a:hover{color:#333;}	
+footer
+{
+    margin-top: 200px;
+    height:200px;
+    background-color:gainsboro;
+}
+footer table tr a:hover{color:#222;}
+td
+{
+    width: 600px;
+    text-align: center;
+    
+}
+p
+{
+    margin-top: 15px;
+    color:darkslategray;
+    font-family:serif;
+    font-size: 20px;
+    
+}
+h1
+{
+    
+  color: #4877CA; 
+
+}
+
+a
+{
+    text-decoration: none;
+    color: #4877CA;
+}
+.head h1
+{
+    font-family: French Script MT;
+    font-size: 70px;
+    text-transform: capitalize;
+    color: #EC711E;
+    font-weight: bold;
+}
+.head h1 span
+{
+    color: dodgerblue;
+    font-family: French Script MT;
+}
+.contact img 
+{
+    width:42px;
+    height:42px;
+    border:0;
+    text-align: center;
+   
+}
+.about
+{
+    padding-top: 20px;
+}
